@@ -6,6 +6,7 @@ This is a Joplin plugin that populates date headings to set up an agenda for the
 
 To install the plugin, download the jpl file from _Releases_ and add it to Joplin manually using the instructions [here](https://joplinapp.org/plugins/#installing-a-plugin).
 
+![a gif showing the plugin](preview.gif)
 
 ## Code
 
