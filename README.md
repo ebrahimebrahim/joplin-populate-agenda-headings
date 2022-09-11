@@ -1,8 +1,10 @@
-# Joplin Plugin
+# This plugin
 
 This is a Joplin plugin that populates date headings to set up an agenda for the week. It's pretty specific to my personal workflow.
 
-The main two files you will want to look at are:
+
+
+The main two files to look at are:
 
 - `/src/index.ts`, which contains the entry point for the plugin source code.
 - `/src/manifest.json`, which is the plugin manifest. It contains information such as the plugin a name, version, etc.

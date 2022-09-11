@@ -1,13 +1,13 @@
 {
 	"manifest_version": 1,
-	"id": "world.peup.seed-agenda",
+	"id": "world.peup.populate-agenda-headings",
 	"app_min_version": "2.8",
 	"version": "1.0.0",
-	"name": "seed-agenda",
+	"name": "populate-agenda-headings",
 	"description": "Populate date headings to set up an agenda for the week",
 	"author": "Ebrahim Ebrahim",
-	"homepage_url": "https://github.com/ebrahimebrahim/seed-agenda",
-	"repository_url": "https://github.com/ebrahimebrahim/seed-agenda",
+	"homepage_url": "https://github.com/ebrahimebrahim/joplin-populate-agenda-headings",
+	"repository_url": "https://github.com/ebrahimebrahim/joplin-populate-agenda-headings",
 	"keywords": [],
 	"categories": []
 }
