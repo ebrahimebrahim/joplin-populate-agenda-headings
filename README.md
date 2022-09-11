@@ -2,12 +2,19 @@
 
 This is a Joplin plugin that populates date headings to set up an agenda for the week. It's pretty specific to my personal workflow.
 
+## Installing
 
+To install the plugin, download the jpl file from _Releases_ and add it to Joplin manually using the instructions [here](https://joplinapp.org/plugins/#installing-a-plugin).
+
+
+## Code
 
 The main two files to look at are:
 
 - `/src/index.ts`, which contains the entry point for the plugin source code.
 - `/src/manifest.json`, which is the plugin manifest. It contains information such as the plugin a name, version, etc.
+
+When developing and ready to release a new version, update the version number in `manifest.json`, add the built `jpl` file from the `publish/` directory as a new release, and associate a new git tag to the relevant commit.
 
 ## Building the plugin
 
