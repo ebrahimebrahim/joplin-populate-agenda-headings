@@ -1,4 +1,4 @@
-# This plugin
+# Joplin plugin: Populate agenda
 
 This is a Joplin plugin that populates date headings to set up an agenda for the week. It's pretty specific to my personal workflow.
 
